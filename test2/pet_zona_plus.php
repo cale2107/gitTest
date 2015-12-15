@@ -50,7 +50,7 @@
 	<div class="pet_zona_img"><img src="pictures/logos/apoteka_vektor.jpg"></div>
     	
 		<div >
-		<h1>Pet Zona lus</h1>
+		<h1>Pet Zona Plus</h1>
 		<ul class="cols_pet_zona2">
 		<li><p>U cilju podrške na planu ishrane kućnih ljubimaca i o načinu izbora odgovarajuće ishrane u odnosu na uzrast,
 		rasu i njihove posebne potrebe, P.D. PlusPlus inicirao je projekat PET ZONA PLUS.</p>
@@ -62,7 +62,7 @@
 		odgoj i zdravlje Vašeg kućnog ljubimca, a u skladu sa svim preporukama i u saradnji sa profesorima sa Fakulteta veterine.</p>
 		</li>
 		<li>
-		<p>Cilj projekta PET ZONA PLUS je da preraste u pokret u koji će biti uključeni svi ljubitelji životinja  koji su,na neposredan ili posredan način, 
+		<p>Cilj projekta  je da preraste u pokret u koji će biti uključeni svi ljubitelji životinja  koji su,na neposredan ili posredan način, 
 		uključeni u brigu o kućnim ljubimcima i koji pružaju usluge vlasnicima kućnih ljubimaca na dobrobit životinja. 
 		Apoteka se nalazi u krugu klinika beogradskog Fakulteta veterine, u Bulevaru oslobođenja 18a.</p>
 		<p>Ukoliko biste radije da odgovore na svoja pitanja dobiijete mejlom, oslonite se na podršku Plus Plus tima veterinara. 
