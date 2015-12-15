@@ -1,2 +1,2 @@
 # gitTest
-Opis gitTest
+Opis gitTest dodato nesto novo
