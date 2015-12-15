@@ -50,7 +50,7 @@
 	<div class="pet_zona_img"><img src="pictures/logos/apoteka_vektor.jpg"></div>
     	
 		<div >
-		<h1>Pet Zona Plus</h1>
+		<h1>Pet Zona lus</h1>
 		<ul class="cols_pet_zona2">
 		<li><p>U cilju podrške na planu ishrane kućnih ljubimaca i o načinu izbora odgovarajuće ishrane u odnosu na uzrast,
 		rasu i njihove posebne potrebe, P.D. PlusPlus inicirao je projekat PET ZONA PLUS.</p>
