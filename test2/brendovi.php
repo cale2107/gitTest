@@ -24,7 +24,7 @@
 				<a href="#" class="fb right">Facebook</a>
 			</div>
 		</div><!-- / Top -->
-		<a href="#" class="logo">PlusPlus</a>
+		<a href="#" class="logo">Plusplus</a>
 		<nav>
 			<ul>
 				<li class="home"><a href="index.php">POČETNA</a></li>
