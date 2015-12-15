@@ -62,7 +62,7 @@
 		odgoj i zdravlje Vašeg kućnog ljubimca, a u skladu sa svim preporukama i u saradnji sa profesorima sa Fakulteta veterine.</p>
 		</li>
 		<li>
-		<p>Cilj projekta  je da preraste u pokret u koji će biti uključeni svi ljubitelji životinja  koji su,na neposredan ili posredan način, 
+		<p>Cilj projekta PET ZONA PLUS je da preraste u pokret u koji će biti uključeni svi ljubitelji životinja  koji su,na neposredan ili posredan način, 
 		uključeni u brigu o kućnim ljubimcima i koji pružaju usluge vlasnicima kućnih ljubimaca na dobrobit životinja. 
 		Apoteka se nalazi u krugu klinika beogradskog Fakulteta veterine, u Bulevaru oslobođenja 18a.</p>
 		<p>Ukoliko biste radije da odgovore na svoja pitanja dobiijete mejlom, oslonite se na podršku Plus Plus tima veterinara. 
